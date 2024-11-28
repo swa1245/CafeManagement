@@ -1,0 +1,70 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "coffee",
+            "price": 50,
+            "veg": false,
+            "reviews": {
+                "ratings": [4],
+                "comments": ["nice food", "nice shh", "wdwd", "23", "sc"]
+            },
+            "icon": "fas fa-coffee"
+        },
+        {
+            "id": 2,
+            "name": "bread",
+            "price": 100,
+            "veg": true,
+            "reviews": {
+                "ratings": [],
+                "comments": ["dwdw"]
+            },
+            "icon": "fas fa-bread-slice"
+        },
+        {
+            "id": 3,
+            "name": "pizza",
+            "price": 150,
+            "veg": true,
+            "reviews": {
+                "ratings": [5, 4, 3],
+                "comments": ["Great!", "Delicious", "Nice taste"]
+            },
+            "icon": "fas fa-pizza-slice"
+        },
+        {
+            "id": 4,
+            "name": "burger",
+            "price": 50,
+            "veg": false,
+            "reviews": {
+                "ratings": [5],
+                "comments": ["Tasty!"]
+            },
+            "icon": "fas fa-hamburger"
+        },
+        {
+            "id": 6,
+            "name": "coke",
+            "price": 10,
+            "veg": true,
+            "reviews": {
+                "ratings": [4, 5, 3],
+                "comments": ["Refreshing", "Good taste", "Could be better"]
+            },
+            "icon": "fas fa-coke"
+        },
+        {
+            "id": 7,
+            "name": "Salad",
+            "price": 100,
+            "veg": true,
+            "reviews": {
+                "ratings": [5, 4, 3],
+                "comments": ["Healthy", "Tasty", "Good"]
+            },
+            "icon": "fas fa-carrot"
+        }
+    ]
+}
