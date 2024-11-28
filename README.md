@@ -1,6 +1,6 @@
 # Restaurant Menu System with Flask Backend
 
-A simple restaurant menu system built using HTML, CSS, JavaScript (frontend), and Flask (backend). This system allows customers to view the menu, place orders, modify the order (add/remove items), and confirm their orders. It uses Flask as a backend server to handle menu data and orders, with a JSON-based data source.
+A simple restaurant menu system built using HTML, CSS, JavaScript (frontend), and Flask (backend). This system allows customers to view the menu, place orders, modify the order (add/remove items), and confirm their orders. It uses Flask as a backend server to handle menu data and orders.
 
 ## Features
 
